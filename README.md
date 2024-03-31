@@ -33,3 +33,12 @@ Playwright, a cross-browser framework, provides end-to-end automated testing of 
     acknowledges the connection establishment to the client, and test execution begins on the same connection.
   * Playwright supports programming languages like JavaScript, Python, C#, and Java, though its main API was originally written in Node.js. It also supports all modern web features including network interception, 
     multiple browser contexts, and automatic waiting.
+
+
+ # 1.3 Software Requirement
+
+  * a) NodeJS
+  * b) Visual Studio Code (VS Code)
+  * c) JavaScript
+  * d) Operating System - Window/MAC/Linux
+
