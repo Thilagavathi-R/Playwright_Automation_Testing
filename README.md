@@ -42,3 +42,14 @@ Playwright, a cross-browser framework, provides end-to-end automated testing of 
   * c) JavaScript
   * d) Operating System - Window/MAC/Linux
 
+ # 1.4 Install Nodejs & VS Code
+
+  * a) NodeJS - Download & Install
+  * b) Visual Studio Code(VS Code) - Download & Install
+
+ # 1.5 Install Playwright in VS Code
+
+  * Step1 : We need to install "Playwright test for VSCode" extension.
+  * Step2 : Press Ctrl+Shift+P, enter "Install playwright".
+  * Step3 : Select Playwright confiurations & click on "OK".
+  * Then wait for some time to complete the installation.
