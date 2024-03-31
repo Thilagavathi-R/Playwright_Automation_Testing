@@ -1,7 +1,7 @@
 # Playwright_Automation_Testing
 Playwright, a cross-browser framework, provides end-to-end automated testing of web applications using the same API and runs frequent tests to ensure your web application is running as expected.
 
-#1.Getting Started with Plawright
+1.Getting Started with Plawright
 
  # 1.1 What is Playwright and Advantages, Limitations
    * Playwright is an Open-source automation testing tool which is used test end to end modern web moblie application in headed or headless mode.
