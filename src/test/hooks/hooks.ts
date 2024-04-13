@@ -1,8 +1,6 @@
 import { BeforeAll, AfterAll, Before, After, Status } from "@cucumber/cucumber";
 import { Browser, BrowserContext, Page } from "playwright/test";
 import { fixture } from "../hooks/Pagefixture";
-// import invokeBrowser from "../src/main/brower/brower.ts";
-// import { createLogger } from "winston";
 import {options} from "../hooks/until/logger"
 const fs = require("fs-extra");
 
