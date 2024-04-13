@@ -1,0 +1,10 @@
+{
+    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "Username":"pradeeppaul",
+    "Password":"QA4lnt@$"
+ 
+ 
+   
+ }
