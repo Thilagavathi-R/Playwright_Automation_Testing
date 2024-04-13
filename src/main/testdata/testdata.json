@@ -1,9 +1,9 @@
 {
-    "Environment":"https://eip4qa.lntecc.com/eiproot/login",
+    "Environment":"#URL",
     "browserName":"chrome",
     "EnableHeadless":"True",
-    "Username":"pradeeppaul",
-    "Password":"QA4lnt@$"
+    "Username":"#userid",
+    "Password":"#password"
  
  
    
